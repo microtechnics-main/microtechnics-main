@@ -1,4 +1,4 @@
-<img src="https://microtechnics.ru/wp-content/uploads/2023/05/microtechnics-main-logo-0.jpg" width="800">
+<img src="https://microtechnics.ru/wp-content/uploads/2023/05/microtechnics-main-logo-upd.jpg" width="800">
 
 Hi there, this is official github account for [microtechnics.ru](https://microtechnics.ru/) website 🤝
 
